@@ -2,4 +2,4 @@
 name = Vyankatesh Potdar
 Div = SOC 22 / c
 roll no = 65 
-<iframe src="https://giphy.com/embed/JIX9t2j0ZTN9S" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/JIX9t2j0ZTN9S">via GIPHY</a></p>
+![Uploading JIX9t2j0ZTN9S.webp…]()
